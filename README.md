@@ -17,8 +17,14 @@ There is a significant drop in the % of Students Passing Math, Reading, and Over
   - All scores remained the same besides the 9th grade scores which were removed.
 - Scores by school spending
   - Thomas falls in the $630-$644 category. The only metric effected was a drop in % Overall Passing
+  - <img width="858" alt="OriginalSpendingRange" src="https://user-images.githubusercontent.com/111014191/189045446-62313a9b-7bea-40f0-a7fc-e08b70f59d8c.png">
+  - <img width="858" alt="ModifiedSpendingRange" src="https://user-images.githubusercontent.com/111014191/189045496-c3bd771d-0bc9-47b7-9f7a-e28da0b6d84b.png">
 - Scores by school size
   - Thomas falls in the Medium category. The only metric effected was a drop in % Overall Passing.
+  - <img width="786" alt="OriginalSchoolSize" src="https://user-images.githubusercontent.com/111014191/189045535-b8f41eca-bb3d-4c86-965c-172f86f77a59.png">
+  - <img width="786" alt="ModifiedSchoolSize" src="https://user-images.githubusercontent.com/111014191/189045575-bd9e6ca4-216d-44a8-9ce8-e6bb84faa5bd.png">
 - Scores by school type
   - Thomas falls in the Charter category. The only metric effected was a drop in % Overall Passing.
+  - <img width="738" alt="OriginalSchoolType" src="https://user-images.githubusercontent.com/111014191/189045612-37ec3877-b823-4c0d-9d12-e4f4dd899ef5.png">
+  - <img width="738" alt="ModifiedSchoolType" src="https://user-images.githubusercontent.com/111014191/189045635-108542a6-ca69-45c3-9237-6be854cc1c8f.png">
 ## Summary: Summarize four changes in teh updated school district analysis after reading and math scores for teh ninth grade at Thomas High School have been replaced with NaNs.
