@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-For this project, we were tasked with helping Maria take care of some innaccurate/dishonest data in regards to grades for students in Thomas High School. We looked at the average math scores, average reading scores, the passing scores for both, the overall percentage of students passing, scores by grade, scores by spending, scores by school size, and scores by school type.
+For this project, we were tasked with helping Maria take care of some inaccurate/dishonest data in regards to grades for students in Thomas High School. We looked at the average math scores, average reading scores, the passing scores for both, the overall percentage of students passing, scores by grade, scores by spending, scores by school size, and scores by school type.
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions
 ### How is the district summary affected?
 The district summary is affected by a slight decrease in Average Math Scores, % Passing Math, % Passing Reading, and % Overall Passing
@@ -21,5 +21,5 @@ There is a significant drop in the % of Students Passing Math, Reading, and Over
   - Thomas falls in the Medium category. There were no metrics changed by removing the 9th graders once we rounded to whole integers. 
 - Scores by school type
   - Thomas falls in the Charter category. There were no metrics changed by removing the 9th graders once we rounded to whole integers.
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for teh ninth grade at Thomas High School have been replaced with NaNs.
-The four things that were changed were the number of students taken into consideration for analysis, the % of Students Passing Math, the % of Students Passing Reading, and the % of Students Passing Overall. By taking out the students with grades that were not reported correctly, Thomas High School has a more accurate reporting of their grades. Unfortunately for the school, the numbers reflected better before. Hopefully they can turn turn things around and find themselves with more students passing in the next school year.
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The four things that were changed were the number of students taken into consideration for analysis, the % of Students Passing Math, the % of Students Passing Reading, and the % of Students Passing Overall. By taking out the students with grades that were not reported correctly, Thomas High School has a more accurate reporting of their grades. Unfortunately for the school, the numbers reflected better than before. Hopefully they can turn things around and find themselves with more students passing in the next school year.
