@@ -14,6 +14,7 @@ There is a slight drop in the Average Math Score, a slight increase in the Avera
 There is a significant drop in the % of Students Passing Math, Reading, and Overall. Decreases going from 93% to 67%, 97% to 70%, and 91% to 65% respectively.
 ### How doe replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+  - All scores remained the same besides the 9th grade scores which were removed.
 - Scores by school spending
 - Scores by school size
 - Scores by school type
