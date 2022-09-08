@@ -22,3 +22,4 @@ There is a significant drop in the % of Students Passing Math, Reading, and Over
 - Scores by school type
   - Thomas falls in the Charter category. There were no metrics changed by removing the 9th graders once we rounded to whole integers.
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for teh ninth grade at Thomas High School have been replaced with NaNs.
+The four things that were changed were the number of students taken into consideration for analysis, the % of Students Passing Math, the % of Students Passing Reading, and the % of Students Passing Overall. By taking out the students with grades that were not reported correctly, Thomas High School has a more accurate reporting of their grades. Unfortunately for the school, the numbers reflected better before. Hopefully they can turn turn things around and find themselves with more students passing in the next school year.
