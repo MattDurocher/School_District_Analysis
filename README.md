@@ -7,6 +7,7 @@ The district summary is affected by a slight decrease in Average Math Scores, % 
 <img width="957" alt="OriginalDistrictSummary" src="https://user-images.githubusercontent.com/111014191/189040888-1624b4d3-ceb8-4ac1-8602-b83f3c073504.png">
 <img width="957" alt="ModifiedDistrictSummary" src="https://user-images.githubusercontent.com/111014191/189040898-ef68657c-8472-4e12-9701-7943f74a5730.png">
 ### How is the school summary affected?
+There is a slight drop in the Average Math Score, a slight increase in the Average Reading Score, and a large decrease in the % Passing Math, % Passing Reading, and % Overall Passing
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 ### How doe replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
