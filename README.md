@@ -11,6 +11,7 @@ There is a slight drop in the Average Math Score, a slight increase in the Avera
 <img width="981" alt="OriginalSchoolSummary" src="https://user-images.githubusercontent.com/111014191/189042535-0abcbd4a-dfa5-4288-9f2a-2ffa762ad2fb.png">
 <img width="1077" alt="ModifiedSchoolSummary" src="https://user-images.githubusercontent.com/111014191/189042546-f80775ed-5b4b-447c-a056-81bcade2ce4f.png">
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+There is a significant drop in the % of Students Passing Math, Reading, and Overall. Decreases going from 93% to 67%, 97% to 70%, and 91% to 65% respectively.
 ### How doe replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
