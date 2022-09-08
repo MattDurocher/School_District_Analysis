@@ -21,4 +21,4 @@ There is a significant drop in the % of Students Passing Math, Reading, and Over
   - Thomas falls in the Medium category. There were no metrics changed by removing the 9th graders once we rounded to whole integers. 
 - Scores by school type
   - Thomas falls in the Charter category. There were no metrics changed by removing the 9th graders once we rounded to whole integers.
-## Summary: Summarize four changes in teh updated school district analysis after reading and math scores for teh ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for teh ninth grade at Thomas High School have been replaced with NaNs.
