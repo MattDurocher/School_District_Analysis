@@ -1,7 +1,11 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
+For this project, we were tasked with helping Maria take care of some innaccurate/dishonest data in regards to grades for students in Thomas High School. We looked at the average math scores, average reading scores, the passing scores for both, the overall percentage of students passing, scores by grade, scores by spending, scores by school size, and scores by school type.
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions
 ### How is the district summary affected?
+The district summary is affected by a slight decrease in Average Math Scores, % Passing Math, % Passing Reading, and % Overall Passing
+<img width="957" alt="OriginalDistrictSummary" src="https://user-images.githubusercontent.com/111014191/189040888-1624b4d3-ceb8-4ac1-8602-b83f3c073504.png">
+<img width="957" alt="ModifiedDistrictSummary" src="https://user-images.githubusercontent.com/111014191/189040898-ef68657c-8472-4e12-9701-7943f74a5730.png">
 ### How is the school summary affected?
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 ### How doe replacing the ninth-grade scores affect the following:
